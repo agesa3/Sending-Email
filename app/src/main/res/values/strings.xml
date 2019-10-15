@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Email App</string>
+    <string name="my_email">My Email</string>
+    <string name="from">From:</string>
+    <string name="to">To:</string>
+    <string name="sendEmail">Send</string>
+    <string name="your_message">Your Message</string>
+    <string name="subject">Subject</string>
+</resources>
